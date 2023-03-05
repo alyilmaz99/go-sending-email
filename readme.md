@@ -1,4 +1,4 @@
-# smtp package - Simple Mail Transfer Protocol with Golang
+# Simple Mail Transfer Protocol with Golang
 
 ## First Creation Commands
 
